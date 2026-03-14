@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 Nova AI - 365 Days Journey
 
 > Building a viral-video-level AI assistant from scratch
@@ -19,4 +20,7 @@ Private Project - Learning Purpose
 
 ---
 *Started: Day 1/365*
-*Developer: [Your Name]*
+*Developer: [md kashif raja]*
+=======
+# Nova-AI-365Days
+>>>>>>> 2d6ae21d60498faf4e6f8f545cfa4f0bc2c3f787
