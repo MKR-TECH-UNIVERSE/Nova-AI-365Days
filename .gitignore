@@ -1,0 +1,20 @@
+# Secrets - NEVER upload these
+.env
+*.key
+passwords.txt
+contacts.json
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
